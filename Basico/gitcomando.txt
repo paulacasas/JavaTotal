@@ -1,0 +1,13 @@
+git init: iniciar repositori
+vincular local con online 
+
+git status : archivos que no ocurren canbios 
+git add : agregar archivo ( nombre de larchivo )
+git add . 
+git status (verde)
+git commint -m  mensaje descriptivo  2" 
+
+git push subir archivos 
+
+
+
