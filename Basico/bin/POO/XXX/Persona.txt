@@ -1,0 +1,15 @@
+Crear una clase Persona que represente a una persona 
+con atributos y métodos básicos. Este ejercicio ayudará 
+a entender cómo definir una clase, crear objetos y usar
+métodos.
+
+Atributos: 
+nombre (string): El nombre de la persona
+edad (int): Edad de la persona
+
+Métodos
+presentarse(): Un método que muestra un mensaje de la 
+presentación con el nombre y la edad de la persona
+
+cumplirAños(): Un método que incrementa la edad 
+de la persona en 1 año

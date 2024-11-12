@@ -1,0 +1,14 @@
+El encapsulamiento se encarga de ocultar tanto nuestros atributos como nuestros métodos
+para que solo puedan ser accedidos desde la misma clase
+Esto nos previene errores de programas mas grandes 
+
+Métodos accesores Setters y Getters 
+set: Los métodos set permiten asignar o cambiar el valor de un atributo 
+
+public void setNombreAtributo(tipo parametro) {
+        this.nombre = nombre; // Establecer un valor al atributo
+    }
+get: Los métodos get permiten obtener el valor de un atributo
+public TipoDeDato getNombreAtributo() {
+        return nombre; // Mostrar el valor del atributo
+    }
