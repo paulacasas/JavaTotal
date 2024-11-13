@@ -1,4 +1,4 @@
-package POO.Aprendiendo.Herencia;
+package POO.Herencia;
 
 public class Estudiante extends Persona {
     private int codigoEstudiante;

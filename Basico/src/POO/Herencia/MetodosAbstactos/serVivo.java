@@ -1,4 +1,4 @@
-package POO.Aprendiendo.Herencia.MetodosAbstactos;
+package POO.Herencia.MetodosAbstactos;
 
 public abstract class serVivo {
     public abstract void alimentarse();

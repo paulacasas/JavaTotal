@@ -1,4 +1,4 @@
-package POO.Aprendiendo.Herencia.SobreEscrituraMetodos;
+package POO.Herencia.SobreEscrituraMetodos;
 
 public class Animal {
     public void comer() {

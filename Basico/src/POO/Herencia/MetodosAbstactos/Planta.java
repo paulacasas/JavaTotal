@@ -1,4 +1,4 @@
-package POO.Aprendiendo.Herencia.MetodosAbstactos;
+package POO.Herencia.MetodosAbstactos;
 
 public class Planta extends serVivo {
     @Override

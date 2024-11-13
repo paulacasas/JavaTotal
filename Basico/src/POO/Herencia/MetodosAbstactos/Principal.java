@@ -1,4 +1,4 @@
-package POO.Aprendiendo.Herencia.MetodosAbstactos;
+package POO.Herencia.MetodosAbstactos;
 
 public class Principal {
     public static void main(String[] args) {

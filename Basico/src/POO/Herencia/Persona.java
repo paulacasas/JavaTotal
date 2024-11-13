@@ -1,4 +1,4 @@
-package POO.Aprendiendo.Herencia;
+package POO.Herencia;
 
 public class Persona {
     private String nombre;

@@ -1,5 +1,3 @@
-//package POO.Ejercicios;
-
 import java.util.Scanner;
 
 public class Cuadrilatero {
