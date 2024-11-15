@@ -11,4 +11,10 @@ public abstract class Poligono {
         return lados;
     }
 
+    public String toString() {
+        return "Numero de lados " + lados;
+    }
+
+    public abstract double area();
+
 }
